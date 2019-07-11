@@ -57,7 +57,6 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(62, 22);
             this.textBox2.TabIndex = 1;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox3
             // 
@@ -65,7 +64,6 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(61, 22);
             this.textBox3.TabIndex = 2;
-            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // label1
             // 
@@ -75,7 +73,6 @@
             this.label1.Size = new System.Drawing.Size(128, 17);
             this.label1.TabIndex = 3;
             this.label1.Text = "концевик открыто";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -106,7 +103,7 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(76, 22);
             this.textBox4.TabIndex = 7;
-            this.textBox4.Text = "0";
+            this.textBox4.Text = "1";
             // 
             // label4
             // 
@@ -132,7 +129,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(76, 22);
             this.textBox5.TabIndex = 9;
-            this.textBox5.Text = "0";
+            this.textBox5.Text = "5";
             // 
             // Form1
             // 
